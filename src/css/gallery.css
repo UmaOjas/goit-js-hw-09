@@ -4,7 +4,8 @@
     flex-wrap: wrap;
     gap: 24px;
     width: 1128px;
-    margin: auto;
+    margin: 0 auto;
+    margin-bottom: 24px;
   }
   .gallery-image {
     height: 200px;
